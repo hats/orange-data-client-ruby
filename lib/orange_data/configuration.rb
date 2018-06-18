@@ -95,7 +95,7 @@ module OrangeData
         lottery_winning: 8, # Выигрыш лотереи
         provision_rid: 9, # Предоставление РИД
         payment: 10, # Платеж
-        agenct_commission: 11, # Агентское вознаграждение
+        agent_commission: 11, # Агентское вознаграждение
         compound_calculation: 12, # Составной предмет расчета
         other: 13 # Иной предмет расчета
       }
